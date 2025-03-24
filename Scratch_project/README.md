@@ -21,6 +21,8 @@
 
 ## Készítette: Soltész Péter
 
+## Scratch link a játékhoz: (https://scratch.mit.edu/projects/1142347700/)
+
 ### Forrás: 
 -Hanganyag: 
 
