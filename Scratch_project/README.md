@@ -19,6 +19,8 @@
 
 ![image](https://github.com/user-attachments/assets/635c286d-ded7-4653-8283-8c34c9604314)
 
+## Készítette: Soltész Péter
+
 ### Forrás: 
 -Hanganyag: 
 
