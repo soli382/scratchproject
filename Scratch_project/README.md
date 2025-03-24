@@ -1,7 +1,7 @@
 # <ins>Fegyver szimulátor</ins>
 
 ## Automata Ak-47-es gépkarabély.
-![ak](https://github.com/user-attachments/assets/9f3b956f-fd21-4db0-959b-0d04537e0ca3)
+![ak](https://github.com/user-attachments/assets/319950f8-2fc1-462b-a07e-030590d4098d)
 
 ## -Fire (_F_ billentyű) = Tüzelés
 
@@ -9,15 +9,15 @@
 
 ## -Range (_L_ billentyű) = Lőtér (Lőtéren az egér segítségével célozhat a táblára és lőhet az _F_ billentyűvel.)
 
-![image](https://github.com/user-attachments/assets/85ef7050-b2d2-4ab3-a9c9-4dfad40f86b9)
+![ak](https://github.com/user-attachments/assets/6ffdcfbe-75b9-405a-b458-7237b43228fd)
 
 ## Egy rajzolt ak-47-essel adhat le lövéseket és próbálhatja ki a játék lőterén.
 
-![image](https://github.com/user-attachments/assets/35adf733-2df3-4a1c-8cba-195d04e75505)
+![ak](https://github.com/user-attachments/assets/75859a3d-d38b-4bea-b08b-649e515172d6)
 
 ## Saját animációval, sprite-okkal rendelkező játék.
 
-![image](https://github.com/user-attachments/assets/635c286d-ded7-4653-8283-8c34c9604314)
+![ak](https://github.com/user-attachments/assets/5e562ab2-0ba4-4b30-a8a1-930dbefc758c)
 
 ## Készítette: Soltész Péter
 
